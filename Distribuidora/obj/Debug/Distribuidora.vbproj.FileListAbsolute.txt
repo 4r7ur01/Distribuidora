@@ -1,0 +1,63 @@
+C:\Users\uno\AppData\Local\Temporary Projects\Distribuidora\bin\Debug\Distribuidora.exe.config
+C:\Users\uno\AppData\Local\Temporary Projects\Distribuidora\bin\Debug\Distribuidora.exe
+C:\Users\uno\AppData\Local\Temporary Projects\Distribuidora\bin\Debug\Distribuidora.pdb
+C:\Users\uno\AppData\Local\Temporary Projects\Distribuidora\bin\Debug\Distribuidora.xml
+C:\Users\uno\AppData\Local\Temporary Projects\Distribuidora\obj\Debug\Distribuidora.Form1.resources
+C:\Users\uno\AppData\Local\Temporary Projects\Distribuidora\obj\Debug\Distribuidora.Resources.resources
+C:\Users\uno\AppData\Local\Temporary Projects\Distribuidora\obj\Debug\Distribuidora.vbproj.GenerateResource.Cache
+C:\Users\uno\AppData\Local\Temporary Projects\Distribuidora\obj\Debug\Distribuidora.exe
+C:\Users\uno\AppData\Local\Temporary Projects\Distribuidora\obj\Debug\Distribuidora.xml
+C:\Users\uno\AppData\Local\Temporary Projects\Distribuidora\obj\Debug\Distribuidora.pdb
+C:\Users\uno\AppData\Local\Temporary Projects\Distribuidora\obj\Debug\Distribuidora.FrmDescuentos.resources
+C:\Users\uno\AppData\Local\Temporary Projects\Distribuidora\obj\Debug\Distribuidora.FrmPedido.resources
+D:\Distribuidora\Distribuidora\bin\Debug\Distribuidora.exe.config
+D:\Distribuidora\Distribuidora\obj\Debug\Distribuidora.exe
+D:\Distribuidora\Distribuidora\obj\Debug\Distribuidora.xml
+D:\Distribuidora\Distribuidora\obj\Debug\Distribuidora.pdb
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\bin\Debug\Distribuidora.exe.config
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\obj\Debug\Distribuidora.exe
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\obj\Debug\Distribuidora.xml
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\obj\Debug\Distribuidora.pdb
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\bin\Debug\Distribuidora.exe
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\bin\Debug\Distribuidora.pdb
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\bin\Debug\Distribuidora.xml
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\obj\Debug\Distribuidora.Form1.resources
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\obj\Debug\Distribuidora.FrmDescuentos.resources
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\obj\Debug\Distribuidora.FrmPedido.resources
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\obj\Debug\Distribuidora.Resources.resources
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\obj\Debug\Distribuidora.vbproj.GenerateResource.Cache
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\obj\Debug\Distribuidora.FrmAnularFactura.resources
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\obj\Debug\Distribuidora.FrmPrincipal.resources
+C:\Users\Prog. Concurrente\Documents\Visual Studio 2012\Projects\Distribuidora\Distribuidora\obj\Debug\Distribuidora.FrmGraficos.resources
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\bin\Debug\Distribuidora.exe.config
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\obj\Debug\Distribuidora.exe
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\obj\Debug\Distribuidora.xml
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\obj\Debug\Distribuidora.pdb
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\bin\Debug\Distribuidora.exe
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\bin\Debug\Distribuidora.pdb
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\bin\Debug\Distribuidora.xml
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\obj\Debug\Distribuidora.vbprojResolveAssemblyReference.cache
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\obj\Debug\Distribuidora.Form1.resources
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\obj\Debug\Distribuidora.FrmAnularFactura.resources
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\obj\Debug\Distribuidora.FrmDescuentos.resources
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\obj\Debug\Distribuidora.FrmGraficos.resources
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\obj\Debug\Distribuidora.FrmPedido.resources
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\obj\Debug\Distribuidora.FrmPrincipal.resources
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\obj\Debug\Distribuidora.Resources.resources
+H:\1.- Estudio\Prog Concurrente\Distribuidora\Distribuidora\obj\Debug\Distribuidora.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\bin\Debug\Distribuidora.exe.config
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\obj\Debug\Distribuidora.exe
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\obj\Debug\Distribuidora.xml
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\obj\Debug\Distribuidora.pdb
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\bin\Debug\Distribuidora.exe
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\bin\Debug\Distribuidora.pdb
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\bin\Debug\Distribuidora.xml
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\obj\Debug\Distribuidora.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\obj\Debug\Distribuidora.FrmAnularFactura.resources
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\obj\Debug\Distribuidora.FrmDescuentos.resources
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\obj\Debug\Distribuidora.FrmGraficos.resources
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\obj\Debug\Distribuidora.FrmPedido.resources
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\obj\Debug\Distribuidora.FrmPrincipal.resources
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\obj\Debug\Distribuidora.Resources.resources
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\obj\Debug\Distribuidora.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\DistribuidoraELMER\Distribuidora\obj\Debug\Distribuidora.FrmPublicaciones.resources
